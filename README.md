@@ -102,7 +102,6 @@ This project analyzes **R's comprehensive diamonds dataset** to build predictive
 - **Categorical Breakdowns**: Faceted distributions, violin plots, and proportional analysis
 
 ### 🤖 Machine Learning Pipeline
-- **Feature Engineering**: Polynomial terms, interaction effects, log transformations
 - **Model Selection**: Best subset selection using AIC/BIC criteria via `regsubsets`
 - **Cross-Validation**: 70/30 train-test splits with stratified sampling
 - **Hyperparameter Tuning**: Grid search for Random Forest mtry, XGBoost learning rates
