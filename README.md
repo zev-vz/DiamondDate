@@ -1,11 +1,11 @@
 # 💎 Diamond Data Analysis: Predictive Modeling of Luxury Market Pricing
 
 ## 🎯 Executive Summary
-This project analyzes **R's comprehensive diamonds dataset** to predict diamond pricing and uncover market segmentation patterns. Through extensive exploratory data analysis, clustering techniques, and ensemble modeling, I discovered:
-- **98.3% prediction accuracy** with XGBoost modeling (RMSE: $525.69)
-- **Quality Paradox**: Lower-grade cuts command 15-20% higher median prices due to relationship between lower-grade cuts and sides
-- **Three-tier market structure** emerges naturally from unsupervised clustering
-- **Carat size dominates final price** with exponential relationship patterns
+This project analyzes **R's comprehensive diamonds dataset** to build predictive models for diamond pricing and discover market segmentation patterns. Through extensive exploratory data analysis, clustering, and predictive modeling, I:
+- Achieved **98.3% prediction accuracy** with XGBoost modeling (RMSE: $525.69)
+- Identified a **Quality Paradox**: Lower-grade cuts command 15-20% higher median prices due to relationship between lower-grade cuts and sides
+- Found that a **Three-tier market structure** emerges naturally from unsupervised clustering
+- Learned that **Carat size dominates final price** with exponential relationship patterns
 
 ## 📊 Dataset Overview
 <table>
