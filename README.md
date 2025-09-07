@@ -120,5 +120,3 @@ This project analyzes **R's comprehensive diamonds dataset** to build predictive
 ├── README.md                        #This comprehensive documentation 
 └── SourceCode                       #Raw code used to generate report
 ```
-
-**Technologies**: R, tidyverse, ggplot2, randomForest, xgboost, caret, dbscan, leaps
