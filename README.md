@@ -35,7 +35,7 @@ This project analyzes **R's comprehensive diamonds dataset** to build predictive
 | **Cut** | Ordinal | Heavily skewed | 40.0% Ideal, only 3.0% Fair quality |
 | **Color** | Ordinal | Semi-uniform | D-J scale, G most common (20.9%) |
 | **Clarity** | Ordinal | Multi-modal | SI1 dominates (24.2%), premium grades rare |
-| **Depth** | Continuous | Near-normal | Tightly clustered 61-62% (technical precision) |
+| **Depth** | Continuous | Near-normal | Very normal looking
 | **Table** | Continuous | Multi-modal | Multiple peaks suggest cutting standards |
 | **X,Y,Z** | Continuous | Size-correlated | Strong linear relationships, few outliers |
 
